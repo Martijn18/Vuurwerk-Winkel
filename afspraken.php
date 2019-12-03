@@ -10,6 +10,7 @@ $password = "1234567";
 $dropsql = "DROP DATABASE IF EXISTS Overzicht;";
 $createsql = "CREATE DATABASE Overzicht;";
 
+//martijn kooiman klas: 1G
 $createtable = "CREATE TABLE `Afspraken`(
 `maandag` VARCHAR(60), 
 `dinsdag` VARCHAR(60), 
